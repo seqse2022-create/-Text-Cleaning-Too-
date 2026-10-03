@@ -12,7 +12,7 @@
 
 ## 功能一：清洗网页文本
 
-去掉 HTML 标签、多余空白、空行。
+去掉 HTML 标签、多余空白、空行
 
 ```python
 from cleaner import 清洗网页文本
