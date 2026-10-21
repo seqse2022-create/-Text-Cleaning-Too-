@@ -60,4 +60,4 @@ python test_cleaner.py
 
 ## 作者
 
-GitHub: [cu]
+GitHub: [https://github.com/seqse2022-create]
